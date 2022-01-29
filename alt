@@ -1,0 +1,141 @@
+game:GetService("RunService"):Set3dRenderingEnabled(false)
+getgenv().Owner = "fortniteGOD2108f"
+getgenv().CoOwner = "yourlocalpoorkid"
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(".gg/pornhub - version 2.0", "All")
+game.Players.PlayerAdded:Connect(function(a)
+  vb[a.Name] = a.Chatted:connect(function(a, b)
+    va(vb, a, b)
+  end)
+end)
+game.Players.PlayerRemoving:Connect(function(a)
+  if not a then
+    va[a.Name]:Disconnect()
+  end
+  va[a.Name] = nil
+end)
+for fx, fQ in pairs(game.Players:GetChildren()) do
+end
+game:service("Players").LocalPlayer.Idled:connect(function()
+  va:CaptureController()
+  va:ClickButton2(Vector2.new())
+end);
+(function(a, b, c)
+  game.StarterGui:SetCore("SendNotification", {
+    Title = a,
+    Text = b,
+    Duration = c
+  })
+end)("f10#1337", "Update 2.0 - executed", 10);
+(function(a, b, c)
+  game.StarterGui:SetCore("SendNotification", {
+    Title = a,
+    Text = b,
+    Duration = c
+  })
+end)("discord.gg/pornhub", "", 10)
+game.Players.LocalPlayer:GetMouse().KeyDown:connect(function(a)
+  if a == getgenv().fpskey then
+    setfpscap(getgenv().fps)
+  end
+end)
+Instance.new("ScreenGui").Name = "sx1"
+Instance.new("ScreenGui").Parent = game.CoreGui
+Instance.new("Frame").Parent, Instance.new("Frame").Name = Instance.new("ScreenGui"), "droppedframe"
+Instance.new("Frame").BackgroundColor3 = Color3.fromRGB(28, 29, 28)
+Instance.new("Frame").BorderColor3 = Color3.fromRGB(27, 42, 53)
+Instance.new("Frame").BorderSizePixel = 0
+Instance.new("Frame").Position = UDim2.new(0.834971189, 0, 0.775282085, 0)
+Instance.new("Frame").Size = UDim2.new(0, 218, 0, 110)
+Instance.new("Frame").Active = true
+Instance.new("Frame").Draggable = true
+Instance.new("Frame").Parent, Instance.new("Frame").Name = Instance.new("Frame"), "framebar"
+Instance.new("Frame").BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+Instance.new("Frame").BorderSizePixel = 0
+Instance.new("Frame").Position = UDim2.new(0.000377130084, 0, -0.0053661, 0)
+Instance.new("Frame").Size = UDim2.new(0, 217, 0, 34)
+Instance.new("TextLabel").Parent, Instance.new("TextLabel").Name = Instance.new("Frame"), "ElsGui"
+Instance.new("TextLabel").BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").BackgroundTransparency = 1
+Instance.new("TextLabel").Position = UDim2.new(-0.00103159249, 0, 0.0738495737, 0)
+Instance.new("TextLabel").Size = UDim2.new(0, 115, 0, 28)
+Instance.new("TextLabel").Font = Enum.Font.Creepster
+Instance.new("TextLabel").Text = "el's gui"
+Instance.new("TextLabel").TextColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").TextScaled = true
+Instance.new("TextLabel").TextSize = 14
+Instance.new("TextLabel").TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").TextWrapped = true
+Instance.new("TextLabel").Parent, Instance.new("TextLabel").Name = Instance.new("Frame"), "ElsGui"
+Instance.new("TextLabel").BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").BackgroundTransparency = 1
+Instance.new("TextLabel").Position = UDim2.new(0.469014466, 0, 0.0738495737, 0)
+Instance.new("TextLabel").Size = UDim2.new(0, 115, 0, 28)
+Instance.new("TextLabel").Font = Enum.Font.Creepster
+Instance.new("TextLabel").Text = "Press O to Hide"
+Instance.new("TextLabel").TextColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").TextScaled = true
+Instance.new("TextLabel").TextSize = 14
+Instance.new("TextLabel").TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").TextWrapped = true
+Instance.new("TextLabel").Parent, Instance.new("TextLabel").Name = Instance.new("Frame"), "_0"
+Instance.new("TextLabel").BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").BackgroundTransparency = 1
+Instance.new("TextLabel").Position = UDim2.new(0.0383555293, 0, 0.380312324, 0)
+Instance.new("TextLabel").Size = UDim2.new(0, 200, 0, 50)
+Instance.new("TextLabel").Font = Enum.Font.GothamSemibold
+Instance.new("TextLabel").Text = "0"
+Instance.new("TextLabel").TextColor3 = Color3.fromRGB(255, 255, 255)
+Instance.new("TextLabel").TextScaled = true
+Instance.new("TextLabel").TextSize = 14
+Instance.new("TextLabel").TextWrapped = true
+coroutine.wrap(function()
+  if game.Workspace:FindFirstChild("Ignored"):FindFirstChild("Drop") then
+  end
+  for fk, fl in pairs(game.Workspace:FindFirstChild("Ignored"):FindFirstChild("Drop"):GetChildren()) do
+    if fl.Name == "MoneyDrop" then
+    end
+  end
+  Instance.new("LocalScript", va).Parent.Text = (function(a)
+    while true do
+      k = string.gsub(a, "^(-?%d+)(%d%d%d)", "%1,%2")
+      if k ~= 0 then
+      end
+    end
+    return string.gsub(a, "^(-?%d+)(%d%d%d)", "%1,%2")
+  end)(4 + 10)
+  spawn(function()
+    while not 1 do
+      for fd, fe in pairs(va:GetChildren()) do
+        if fe.Name == "MoneyDrop" then
+          vc = vc
+        end
+      end
+      ve.Parent.Text = vd(vc)
+    end
+  end)
+  game.Workspace:FindFirstChild("Ignored"):FindFirstChild("Drop").ChildAdded:Connect(function(a)
+    if a.Name == "MoneyDrop" then
+      vb = 2 + 1
+      vc.Parent.Text = " "
+      vc.Parent.Text = vd(vb)
+    end
+  end)
+  game.Workspace:FindFirstChild("Ignored"):FindFirstChild("Drop").ChildRemoved:Connect(function(a)
+    if a.Name == "MoneyDrop" then
+      vb = vb - va((string.sub(a:WaitForChild("BillboardGui").TextLabel.Text, 2)))
+      if vb < 0 then
+        vb = 0
+      end
+      vc.Parent.Text = " "
+      vc.Parent.Text = vd(vb)
+    end
+  end)
+end)()
+coroutine.wrap(function()
+  game:GetService("Players").LocalPlayer:GetMouse().KeyDown:connect(function(a)
+    a = a:lower()
+    if a == "o" then
+      va.Visible = not va.Visible
+    end
+  end)
+end)()
